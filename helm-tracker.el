@@ -28,7 +28,7 @@
 ;;; Code:
 (require 'helm)
 
-(defgroup 'helm-tracker nil
+(defgroup helm-tracker nil
   "helm interface for gnome tracker")
 
 (defcustom helm-tracker-max-results 512
